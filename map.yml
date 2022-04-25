@@ -1,0 +1,5 @@
+map_name: AAC-BuildCaps
+games:
+- game_name: AAC-BuildCaps
+  file_name: AAC-BuildCaps.xml
+version: 0
